@@ -1,0 +1,2 @@
+export const music_img = ['https://cdn-icons-png.flaticon.com/512/282/282120.png','https://cdn.icon-icons.com/icons2/2846/PNG/512/music_musical_note_icon_181418.png',
+'https://cdn-icons-png.flaticon.com/512/4702/4702618.png','https://cdn-icons-png.flaticon.com/512/7335/7335750.png','https://images.emojiterra.com/mozilla/512px/1f3b6.png']
